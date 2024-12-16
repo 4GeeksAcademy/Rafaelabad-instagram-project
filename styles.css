@@ -1,0 +1,39 @@
+.titulillo {
+    text-align: center;
+}
+
+.posts{ 
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+.post1 {
+    display:grid;
+    width: 45%;
+    margin-top: 100px;
+    background-color: white;
+}
+.post2 {
+    display:grid;
+    width: 45%;
+    margin-top: 100px;
+    background-color: white;
+}
+.post3 {
+    display:grid;
+    width: 45%;
+    margin-top: 100px;
+    background-color: white;
+}
+.post4 {
+    display:grid;
+    width: 45%;
+    margin-top: 100px;
+    background-color: white;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
